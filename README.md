@@ -11,4 +11,6 @@ features:
 - makes sure file ends with a newline
 - makes sure file doesnt end with trailing newlines
 
+note: the -r (--recursive) flag is nonfunctional as of now, this tool only works in recursive mode.
+
 warning: this program modifies file contents - make sure to have a backup just in case
